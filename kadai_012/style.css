@@ -322,6 +322,11 @@ h3 {
 }
 
 /* 導入企業 */
+#cases {
+  margin: 20px 0;
+  width: 100%;
+}
+
 #cases>ul {
   display: flex;
   list-style: none;
